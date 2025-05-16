@@ -1,4 +1,25 @@
-# React + Vite
+# Todo App using React + Vite and Tailwind CSS
+
+A simple Todo App built using React + Vite and Tailwind CSS.
+
+Check out the app at: https://mushkan-kumari.github.io/Todo_List_SKS_T3/
+
+
+## App Preview
+
+Starting App Preview:
+
+
+![Image Alt](https://github.com/mushkan-kumari/Todo_List_SKS_T3/blob/4c11d6fdbfba392e4337277806a9d43ea22d0f19/images/starter_page.JPG)
+
+Working Preview:
+
+
+![Image Alt](https://github.com/mushkan-kumari/Todo_List_SKS_T3/blob/4c11d6fdbfba392e4337277806a9d43ea22d0f19/images/working_page.JPG)
+
+
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
